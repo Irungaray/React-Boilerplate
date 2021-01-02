@@ -42,4 +42,6 @@ yarn-error.log*
 .npm/
 dist
 
+# Your notes (if any)
 apuntes
+notes
